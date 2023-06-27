@@ -41,6 +41,9 @@ create new file
 touch <filename.ext> <filename.ext>.....
 can create multiple files together
 
+touch file-{1..10}.txt
+creates 10 files named file-1.txt, file-2.txt.....file-10.txt
+
 mv <filename1> <filename2>
 renames <filename1> to <filename2>
 
