@@ -58,3 +58,7 @@ rm file*
 
 rm -r <dir>
 #removes dir
+
+sudo cp -r * dir_name
+#recursively copies all files in current root dir to destination dir
+
